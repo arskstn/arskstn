@@ -28,16 +28,13 @@ Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polyt
 
 ---
 
-## 🚀 Projects  
+## 🚀 Some of my projects  
 
 ### 1. **Tail-Sitter Drone for Aerial Surveying**  
 *MiracleSky LLC, Tomsk*  
 - **Role**: Programmer (Electronics & Programming Dept), Team Lead Assistant  
 - **Stack**: Python, C++, Microcontrollers (ESP32)  
 - **Results**: Built experimental prototypes for low-temperature drone ops. Gained media coverage and led workshops for junior students at a hackathon on drone assembly and piloting.  
-<p align="center">
-  <img src="https://media.giphy.com/media/l0ExjZ7krNqsExrji/giphy.gif" width="150" alt="Drone GIF">
-</p>
 
 ### 2. **MRI Core Segmentation Software**  
 *Tomsk Polytechnic University*  
