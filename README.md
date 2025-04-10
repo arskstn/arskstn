@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arsenii Kostin!  
+# <img src="https://raw.githubusercontent.com    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I'm Arsenii Kostin!  
 
 <p align="center">
   <em>Passionate <b>Robotics & Mechatronics</b> student | Engineer-in-the-making | Problem solver</em>
@@ -8,27 +8,30 @@ Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polyt
 
 ---
 
-## ⚙️ Main Interests  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Main Interests  
 - **Machine Learning**  
 - **Microcontrollers** (ESP32, STM32, Cortex-M MCUs)  
 - **IoT**  
 - **DevOps Tools & Systems** (Docker, Linux/Unix Configuration)  
 
-## 💻 Tech Stack  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+  ![Premiere Pro](https://img.shields.io/badge/premierepro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+  ![After Effects](https://img.shields.io/badge/aftereffects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 </p>
 - <b>Languages</b>: Python (TensorFlow, Keras, Scikit-learn, Pandas, OpenCV), C++, C, Bash  <br>
-- <b>Tools</b>: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD, Inventor  <br>
+- <b>Tools</b>: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD, Inventor, Adobe Photoshop, Premiere Pro, After Effects  <br>
 - <b>Databases</b>: MySQL, PostgreSQL, some others... <br>
 
 ---
 
-## 🚀 Some of my projects  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Some of my projects  
 
 ### 1. **Tail-Sitter Drone for Aerial Surveying**  
 *MiracleSky LLC, Tomsk*  
@@ -40,7 +43,7 @@ Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polyt
 *Tomsk Polytechnic University*  
 - **Role**: Lead Programmer  
 - **Stack**: Python, C++, PyTorch, OpenCV 
-- **Results**: Developed software to automate dataset labeling, speeding up dataset labeling prcess. Trained multiple model for core sample analysis, aiding further project stages.  
+- **Results**: Developed software to automate dataset labeling, speeding up dataset labeling process. Trained multiple models for core sample analysis, aiding further project stages.  
 
 ### 3. **Indoor Navigation for Aurora OS**  
 *Open Mobile Platform LLC, Innopolis*  
@@ -56,24 +59,23 @@ Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polyt
 
 ---
 
-## 🌟 Education  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Education  
 - **Tomsk Polytechnic University**  
   *Mechatronics & Robotics* | 2022–2026 | GPA: 4.6  
-- **Novosibirsk State Univeristy Physics and Mathematics School** | Graduated 2021
-  * Specialized IT Class* | 2020–2021 
+- **Novosibirsk State University Physics and Mathematics School** | Graduated 2021
+  *Specialized IT Class* | 2020–2021 
 - **Novosibirsk IT Lyceum** | Graduated 2022  
 
-## 📜 Courses & Certifications  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="25" height="25" /> Courses & Certifications  
 - Some of them are published on LinkedIn, others are not. Ask me, if needed. 
 
 ---
 
-## 🌍 Languages  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" height="25" /> Languages  
 - **Russian**: Native 
 - **English**: C1 (Certified)
-- **French** A2
-
+- **French**: A2
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="100" alt="Rocket GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2djMXd6MzVhbXM1YzRxaTZiNWYybm0wbGVrYXJwZzJoNmo2dDdsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6EQaVtm2A0ZdEljy/giphy.gif" width="250" alt="Rocket GIF">
 </p>
