@@ -22,9 +22,9 @@ Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polyt
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
-- **Languages**: Python (TensorFlow, Keras, Scikit-learn, Pandas, OpenCV), C++, C, Bash  
-- **Tools**: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD, Inventor  
-- **Databases**: MySQL, PostgreSQL, some others... 
+- <b>Languages</b>: Python (TensorFlow, Keras, Scikit-learn, Pandas, OpenCV), C++, C, Bash  
+- <b>Tools</b>: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD, Inventor  
+- <b>Databases</b>: MySQL, PostgreSQL, some others... 
 
 ---
 
