@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I'm Arsenii Kostin!  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I'm Arsenii Kostin!  
 
 <p align="center">
   <em>Passionate <b>Robotics & Mechatronics</b> student | Engineer-in-the-making | Problem solver</em>
@@ -16,14 +16,14 @@ Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polyt
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack  
 <p align="center">
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-  ![Premiere Pro](https://img.shields.io/badge/premierepro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-  ![After Effects](https://img.shields.io/badge/aftereffects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/premierepro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/aftereffects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
 </p>
 - <b>Languages</b>: Python (TensorFlow, Keras, Scikit-learn, Pandas, OpenCV), C++, C, Bash  <br>
 - <b>Tools</b>: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD, Inventor, Adobe Photoshop, Premiere Pro, After Effects  <br>
