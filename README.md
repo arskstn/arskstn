@@ -4,7 +4,7 @@
   <em>Passionate <b>Robotics & Mechatronics</b> student | Engineer-in-the-making | Problem solver</em>
 </p>
 
-Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polytechnic University with a knack for tackling challenging problems with creative solutions. I thrive on ambitious, real-world projects and love staying ahead by mastering new tech online. Catch me in the lab tinkering with hardware or coding.  
+Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polytechnic University with a knack for tackling challenging problems with creative solutions.
 
 ---
 
