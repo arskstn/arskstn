@@ -21,9 +21,6 @@ Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polyt
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/premierepro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/aftereffects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
 </p>
 - <b>Languages</b>: Python (TensorFlow, Keras, Scikit-learn, Pandas, OpenCV), C++, C, Bash  <br>
 - <b>Tools</b>: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD, Inventor, Adobe Photoshop, Premiere Pro, After Effects  <br>
