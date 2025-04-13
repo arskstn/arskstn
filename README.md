@@ -1,9 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I'm Arsenii Kostin!  
 
-<p align="center">
-  <em>Passionate <b>Robotics & Mechatronics</b> student | Engineer-in-the-making | Problem solver</em>
-</p>
-
 Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polytechnic University with a knack for tackling challenging problems with creative solutions.
 
 ---
