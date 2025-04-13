@@ -7,7 +7,6 @@ Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polyt
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Main Interests  
 - **Machine Learning**  
 - **Microcontrollers** (ESP32, STM32, Cortex-M MCUs)  
-- **IoT**  
 - **DevOps Tools & Systems** (Docker, Linux/Unix Configuration)  
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack  
