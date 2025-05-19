@@ -18,8 +18,8 @@ Hi, I’m Arsenii, a driven **robotics and mechatronics** student at Tomsk Polyt
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 - <b>Languages</b>: Python (TensorFlow, Keras, Scikit-learn, Pandas, OpenCV), C++, C, Bash  <br>
-- <b>Tools</b>: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD, Inventor, Adobe Photoshop, Premiere Pro, After Effects  <br>
-- <b>Databases</b>: MySQL, PostgreSQL, some others... <br>
+- <b>Tools</b>: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD <br>
+- <b>Databases</b>: MySQL, PostgreSQL <br>
 
 ---
 
