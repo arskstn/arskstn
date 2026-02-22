@@ -18,9 +18,9 @@ Hi, I’m Arsenii, a **robotics and mechatronics** student. I like beer.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-- <b>Languages</b>: Python (TensorFlow, Keras, Scikit-learn, Pandas, OpenCV), C++, C, Bash  <br>
-- <b>Tools</b>: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD <br>
+- <b>Languages</b>: Python, C++ (Mainly ROS2 developement), C, Bash  <br>
 - <b>Databases</b>: MySQL, PostgreSQL <br>
+- <b>MISC</b>: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD <br>
 
 ---
 
