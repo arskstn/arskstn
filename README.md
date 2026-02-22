@@ -29,9 +29,4 @@ Hi, I’m Arsenii, a **robotics and mechatronics** student. I like beer.
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" height="25" /> Languages  
 - **Russian**: Native 
 - **English**: C1 (Certified)
-- **French**: A2
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2djMXd6MzVhbXM1YzRxaTZiNWYybm0wbGVrYXJwZzJoNmo2dDdsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6EQaVtm2A0ZdEljy/giphy.gif" width="250" alt="Rocket GIF">
-</p>
 
