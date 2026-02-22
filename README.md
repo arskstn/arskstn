@@ -4,7 +4,6 @@ Hi, I’m Arsenii, a **robotics and mechatronics** student. I like beer.
 <p align="center">
   <img src="https://github.com/arskstn/arskstn/blob/77b988b189f8b0beb4067e52c882c1e1f7792263/BRAD_PITT.png" width="450">
 </p>
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Main Interests  
 - **Machine Learning**  
@@ -23,8 +22,6 @@ Hi, I’m Arsenii, a **robotics and mechatronics** student. I like beer.
 - <b>Languages</b>: Python, C++, C, Bash  <br>
 - <b>Databases</b>: MySQL, PostgreSQL <br>
 - <b>MISC</b>: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD <br>
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" height="25" /> Languages  
 - **Russian**: Native 
