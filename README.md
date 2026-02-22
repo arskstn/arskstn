@@ -2,7 +2,7 @@
 
 Hi, I’m Arsenii, a **robotics and mechatronics** student. I like beer.
 <p align="center">
-  <img src="https://png.klev.club/uploads/posts/2024-05/png-klev-club-65ga-p-muzhik-lezhit-png-14.png" width="250">
+  <img src="https://png.klev.club/uploads/posts/2024-05/png-klev-club-7dhj-p-muzhik-lezhit-png-24.png" width="250">
 </p>
 ---
 
