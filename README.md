@@ -21,7 +21,7 @@ Hi, I’m Arsenii, a **robotics and mechatronics** student. I like beer.
 </p>
 - <b>Languages</b>: Python, C++, C, Bash  <br>
 - <b>Databases</b>: MySQL, PostgreSQL <br>
-- <b>MISC</b>: Docker, Git, Jira, Qt, ESP-IDF, Matlab, Компас-3D, AutoCAD <br>
+- <b>MISC</b>: Docker, Git, ESP-IDF, Matlab, Компас-3D, AutoCAD <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" height="25" /> Languages  
 - **Russian**: Native 
