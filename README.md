@@ -1,6 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I'm Arsenii Kostin!  
 
-Hi, I’m Arsenii, a **robotics and mechatronics** student. I like beer.
 <p align="center">
   <img src="https://github.com/arskstn/arskstn/blob/77b988b189f8b0beb4067e52c882c1e1f7792263/BRAD_PITT.png" width="450">
 </p>
@@ -19,11 +18,7 @@ Hi, I’m Arsenii, a **robotics and mechatronics** student. I like beer.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-- <b>Languages</b>: Python, C++, C, Bash  <br>
-- <b>Databases</b>: MySQL, PostgreSQL <br>
-- <b>MISC</b>: Docker, Git, ESP-IDF, Matlab, Компас-3D, AutoCAD <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" height="25" /> Languages  
 - **Russian**: Native 
 - **English**: C1
-
